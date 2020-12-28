@@ -12,10 +12,10 @@ e.vera-siguenza@bham.ac.uk <br />
 
 # Info:
 This repository contains the code for the 
-preliminary mathematical FBA model
+preliminary mathematical Flux Balance Analysis (FBA) model
 for the multiple myeloma project.
 
-Briefly, it is a type of constraint-based modelling (CBM), 
+Briefly, it is a type of constraint-based model (CBM), 
 which only accounts for reaction stoichiometry and 
 reversibility under the assumption of steady-state 
 whilst using an underdetermined formulation. 
