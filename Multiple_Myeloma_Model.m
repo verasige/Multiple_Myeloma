@@ -1087,6 +1087,7 @@ model = changeRxnBounds(model, 'EX_pyr', 0, 'u');
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This is a test function, here I am disabling it:
 model = changeRxnBounds(model, 'p_DM_NADH', 0, 'u');
+model = changeRxnBounds(model, 'p_DM_NADH', 0, 'l');
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Do not accumulate cysteine in the extracellular compartment:
@@ -1099,10 +1100,10 @@ model = changeRxnBounds(model, 'b_o2t', 15.5, 'u');
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Test Bounds
-model = changeRxnBounds(model, 'p_PRAGS', 1, 'u'); 
-model = changeRxnBounds(model, 'p_PGM', 2.7, 'u');
-model = changeRxnBounds(model, 'p_PGK', 3.90, 'u');
-model = changeRxnBounds(model, 'p_MCT1', 20.526, 'u');
+% model = changeRxnBounds(model, 'p_PRAGS', 1, 'u'); 
+% model = changeRxnBounds(model, 'p_PGM', 2.7, 'u');
+% model = changeRxnBounds(model, 'p_PGK', 3.90, 'u');
+% model = changeRxnBounds(model, 'p_MCT1', 20.526, 'u');
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 % HIF1 This is an approximation and will change when the model is guided
