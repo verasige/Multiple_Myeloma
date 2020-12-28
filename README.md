@@ -1,13 +1,13 @@
 # Multiple Myeloma Model
 
 # Author:
-Elias Siguenza
-Tennant Laboratory
-Institute of Metabolic and Systems Research
-College of Medical and Dental Sciences
-University of Birmingham
-England, United Kingdom
-e.vera-siguenza@bham.ac.uk
+Elias Siguenza <br />
+Tennant Laboratory <br />
+Institute of Metabolic and Systems Research <br />
+College of Medical and Dental Sciences <br />
+University of Birmingham <br />
+England, United Kingdom <br />
+e.vera-siguenza@bham.ac.uk <br />
 
 # Info:
 This repository contains the code for the 
