@@ -7,6 +7,7 @@ Institute of Metabolic and Systems Research
 College of Medical and Dental Sciences
 University of Birmingham
 England, United Kingdom
+e.vera-siguenza@bham.ac.uk
 
 # Info:
 This repository contains the code for the 
@@ -45,5 +46,11 @@ And the Gurobi Optimisation Package,
 whose license can be obtained at: 
 https://www.gurobi.com/
 
+# Files:
+This repository, as of its latest version contains:
+1. Schematich diagram of the model.
+2. Schematic diagram of the metabolic network in the Myeloma cell.
+3. Schematic diagram of the metabolic network inn the BMMS cell.
+4. A MATLAB .m file (script) with the model (where instructions are further provided). 
 
 
