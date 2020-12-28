@@ -1,7 +1,6 @@
 # ReadMe
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 Elias Siguenza
 
 Tennant Laboratory
@@ -15,11 +14,11 @@ University of Birmingham
 England, United Kingdom
 
 December 2020
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-This file contains instructions to run the multiple myeloma model we have 
-created. 
+This repository contains the code for the preliminary mathematical FBA model
+for the multiple myeloma project.
+
 
 
