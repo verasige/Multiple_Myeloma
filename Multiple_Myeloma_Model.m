@@ -500,7 +500,7 @@ p_r2520  = '1 akg[x] + 2 gthrd[l] <=> 1 akg[l] + 1 gthrd[x]';
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%% 5-ALA/HEME  Metabolism
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-b_ALASm   = '1 gly[m] + 1 h[m] + 1 succoa[m] -> 1 5aop[m] + 1 co2[m] + 0 coa[m]';
+b_ALASm   = '1 gly[m] + 1 h[m] + 1 succoa[m] -> 1 5aop[m] + 1 co2[m] + 1 coa[m]';
 b_AOPtm   = '1 5aop[m] <=> 1 5aop[c]';
 b_PPBNGS  = '1 5aop[c] -> 1 h[c] + 1 h2o[c] + 1 ppbng[c]';
 b_HMBS    = '1 h2o[c] + 4 ppbng[c] -> 1 hmbil[c] + 1 nh4[c]';
