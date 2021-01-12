@@ -2,6 +2,8 @@
 
 # Author:
 Elias Siguenza <br />
+Fabian Spill <br />
+Dan Tennant <br />
 Tennant Laboratory <br />
 Institute of Metabolic and Systems Research <br />
 College of Medical and Dental Sciences <br />
